@@ -50,7 +50,7 @@
   "mixed_case_characters":"Caracteres com maiúsculas e minúsculas",
   "new_seed_too_short":"Nova Seed curta demais",
   "new_seed_too_long":"Nova Seed longa demais",
-  "not_matching":"Not matching",
+  "not_matching":"Não coincidem",
   "invalid_input":"Invalid input",
   "hash":"Hash",
   "persistence":"Persistence",
