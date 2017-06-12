@@ -1,3 +1,3 @@
 files:
-  - source: locales/en
-    translation: '%original_path%/%two_letters_code%'
+  - source: /**/locales/en
+    translation: /**/locales/%two_letters_code%/ui-%locale%
