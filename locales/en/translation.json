@@ -299,6 +299,6 @@
   "transfer_completed": "Transfer completed",
   "send_limit": "Send Limit (Mbit/s)",
   "db_location": "Database Location",
-  "invalid_seed": "Invalid Seed"
+  "invalid_seed": "Invalid Seed",
   "invalid_seed2": "Invalid Seed"
 }
