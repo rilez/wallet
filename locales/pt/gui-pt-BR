@@ -1,7 +1,7 @@
 {
-  "login":"LOGIN",
+  "login":"Iniciar Sessão",
   "error":"Error",
-  "balance":"Balance",
+  "balance":"Saldo",
   "send":"Send",
   "recipient_address":"Recipient Address",
   "optional_tag":"Optional Tag",
